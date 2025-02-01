@@ -1,0 +1,85 @@
+{
+  "name": "MICROSOFT LEARN",
+  "children": [
+    {
+      "name": "Administrator",
+      "children": [
+        {
+          "name": "Beginner",
+          "url": "https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/",
+          "children": [
+            { "name": "Describe the benefits of using cloud services" },
+            { "name": "Describe cloud service types" },
+            { "name": "Microsoft Azure Fundamentals: Describe cloud concepts" }
+          ]
+        },
+        {
+          "name": "Intermediate",
+          "url": "https://learn.microsoft.com/en-us/training/modules/understand-azure-active-directory/",
+          "children": [
+            { "name": "Understand Microsoft Entra ID" },
+            { "name": "Monitor Azure AI services" },
+            { "name": "Introduction to GitHub's products" }
+          ]
+        },
+        {
+          "name": "Advanced",
+          "url": "https://learn.microsoft.com/en-us/training/modules/introduction-to-github-actions/",
+          "children": [
+            { "name": "Introduction to GitHub Actions" },
+            { "name": "Explore Azure Pipelines" },
+            { "name": "Learn continuous integration with GitHub Actions" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI Engineer",
+      "children": [
+        {
+          "name": "Beginner",
+          "url": "https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/",
+          "children": [
+            { "name": "Fundamental AI Concepts" },
+            { "name": "Fundamentals of Azure AI services" },
+            { "name": "Fundamentals of Generative AI" }
+          ]
+        },
+        {
+          "name": "Intermediate",
+          "url": "https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/",
+          "children": [
+            { "name": "Fundamentals of Responsible Generative AI" },
+            { "name": "Get started with Azure OpenAI Service" },
+            { "name": "Use prebuilt Document intelligence models" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "App Maker",
+      "children": [
+        {
+          "name": "Beginner",
+          "url": "https://learn.microsoft.com/en-us/training/modules/power-virtual-agents-bots/",
+          "children": [
+            { "name": "Get started with Microsoft Copilot Studio" },
+            { "name": "Configure flow control in Power Automate for desktop" },
+            { "name": "Introduction to Copilot in Microsoft Power Platform" }
+          ]
+        },
+        {
+          "name": "Intermediate",
+          "url": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
+          "children": [
+            { "name": "Add measures to Power BI Desktop models" },
+            {
+              "name": "Add calculated tables and columns to Power BI Desktop models"
+            },
+            { "name": "Build effective copilots with Microsoft Copilot Studio" }
+          ]
+        }
+      ]
+    }
+  ]
+}
